@@ -20,7 +20,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>https://192.168.0.161/ipa/mytest/icon_full_size_s.png</string>
+					<string>https://192.168.0.161/ios/icon_full_size_s.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-					<string>https://192.168.0.161/ipa/mytest/icon_display_s.png</string>
+					<string>https://192.168.0.161/ios/icon_display_s.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
